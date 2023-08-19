@@ -2,6 +2,6 @@ body
 {
     background-color: blue;
     .email{
-        text-align: center;
+        text-align: right;
     }
 }
